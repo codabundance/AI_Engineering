@@ -1,0 +1,10 @@
+tiktoken
+numpy
+langchain-openai
+langchain-chroma
+langchain-huggingface[full]
+langchain-community
+langchain-text-splitters
+scikit-learn
+plotly
+openai
